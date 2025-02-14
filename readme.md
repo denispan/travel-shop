@@ -1,14 +1,14 @@
 # [Проект «Travel shop»](https://denispan.github.io/travel-shop/index.html)
 
-[denispan.github.io/travel-shop](https://denispan.github.io/travel-shop/index.html) </br></br>
+[denispan.github.io/travel-shop](https://denispan.github.io/travel-shop/) </br></br>
 
 Лендинговая страница магазина путешествий, спеицализирующегося на турах в Антарктику.</br></br>
 <strong>Адаптивная Pixel Perfect верстка по макету Figma.</strong>
 
-### [Главная страница](https://denispan.github.io/travel-shop/index.html)
+### [Главная страница](https://denispan.github.io/travel-shop/)
 | Desktop | Tablet | Mobile |
 |:---------------:|:--------------:|:----------------:|
-| <img width="300" alt="Desktop version" src="https://github.com/user-attachments/assets/0e2274fd-c20d-4a38-bb66-460847b2949a" /> | <img width="200" alt="Tablet version" src="https://github.com/user-attachments/assets/58c59b62-1faf-4c85-a5ba-9806f90f4034" /> | <img width="150" alt="Mobile version" src="https://github.com/user-attachments/assets/d72bb8ae-ace4-495c-aba4-5dae11da9e0b" /> |
+| <img width="300" alt="Desktop version" src="https://github.com/user-attachments/assets/671cf4d6-8100-4229-ab05-a3f45f44776e" /> | <img width="200" alt="Tablet version" src="https://github.com/user-attachments/assets/933d60cb-d285-4473-8b6e-0abd5072ae31" /> | <img width="150" alt="Mobile version" src="https://github.com/user-attachments/assets/af263af8-d98f-415b-bb05-a48e988cb323" /> |
 
 
 ## Технологии
