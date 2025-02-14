@@ -1,0 +1,56 @@
+.features-card {
+  padding: 30px 21px 25px 30px;
+  margin: 0;
+  background-color: $color-alice-blue;
+
+  @include vp-1023 {
+    padding: 25px 16px 20px 20px;
+  }
+
+  & h3 {
+    line-height: 25px;
+    margin-bottom: 9px;
+  }
+
+  & p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: $color-tangaroa;
+    margin: 0;
+  }
+}
+
+.features-card__icon {
+  position: relative;
+  min-height: 52px;
+
+  &--allincluse img {
+    position: absolute;
+    top: 5px;
+  }
+
+  &--board img {
+    position: absolute;
+    top: 8px;
+  }
+
+  @include vp-1023 {
+    min-height: 46px;
+
+    &--ship img {
+      width: 21px;
+      height: 26px;
+    }
+
+    &--allincluse img {
+      width: 33px;
+      height: 19px;
+    }
+
+    &--board img {
+      width: 38px;
+      height: 13px;
+    }
+  }
+}
